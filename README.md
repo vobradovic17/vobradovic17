@@ -1,4 +1,6 @@
-## Hi there 👋
+Hi, I'm Vladimir Obradović. 
+
+I'm a frontend developer with proficiency in both fundamental and modern JavaScript which gives me deep understanding of under the hood functioning of different JavaScript frameworks. I have been working mostly in Vue framework and its ecosystem, and to a lesser extent in Angular with my recent focus being on React to which I plan to switch completely in the future.
 
 <!--
 **vobradovic17/vobradovic17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
