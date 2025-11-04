@@ -9,7 +9,7 @@ Webpack; Vite; Gulp; npm; Git;<br>
 PHP (basics); SQL (basics);<br>
 
 Connect:<br>
-💼 <a href="https://www.linkedin.com/in/vladimir-obradovi%C4%87-392739387/">LinkedIn</a>
+💼 <a target="_blank" href="https://www.linkedin.com/in/vladimir-obradovi%C4%87-392739387/">LinkedIn</a>
 
 <!--
 **vobradovic17/vobradovic17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
