@@ -8,7 +8,11 @@ VueJS; Vuex; Pinia; Nuxt; React; Angular;<br>
 Webpack; Vite; Gulp; npm; Git;<br>
 PHP (basics); SQL (basics);<br>
 
-Connect:<br>
+<b>Projects:</b><br>
+<a href="https://ludoknowledgegame.netlify.app/">Ludo knowledge game</a> - Ludo game with knowledge quiz questions before every move (knowledge part coming soon...) (made in React)
+<a href="https://charming-sprite-10ea5a.netlify.app/">Multiple choice quiz</a> - Knowledge quiz with 4 options and 1 correct answer (made in VueJS)
+
+<b>Connect:</b><br>
 💼 <a target="_blank" href="https://www.linkedin.com/in/vladimir-obradovi%C4%87-392739387/">LinkedIn</a>
 
 <!--
