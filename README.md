@@ -9,7 +9,7 @@ Webpack; Vite; Gulp; npm; Git;<br>
 PHP (basics); SQL (basics);<br>
 
 <b>Projects:</b><br>
-<a href="https://ludoknowledgegame.netlify.app/">Ludo knowledge game</a> - Ludo game with knowledge quiz questions before every move (knowledge part coming soon...) (made in React)
+<a href="https://ludoknowledgegame.netlify.app/">Ludo knowledge game</a> - Ludo game with knowledge quiz questions before every move (made in React)
 <a href="https://charming-sprite-10ea5a.netlify.app/">Multiple choice quiz</a> - Knowledge quiz with 4 options and 1 correct answer (made in VueJS)
 
 <b>Connect:</b><br>
