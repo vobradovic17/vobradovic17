@@ -5,7 +5,7 @@ I'm a frontend developer with proficiency in both fundamental and modern JavaScr
 <b>Tech Stack:</b> 🚀 <br>
 HTML; CSS; JavaScript; SCSS; TypeScript;<br>
 Vue.js; Vuex; Pinia; Nuxt; React; Angular;<br>
-Webpack; Vite; Gulp; npm; Git;<br>
+Webpack; Vite; Vitest; Gulp; npm; Git;<br>
 PHP (basics); SQL (basics);<br>
 
 <b>Projects:</b><br>
