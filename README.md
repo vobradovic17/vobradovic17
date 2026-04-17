@@ -6,7 +6,7 @@ I'm a frontend developer with proficiency in both fundamental and modern JavaScr
 HTML; CSS; JavaScript; SCSS; TypeScript;<br>
 Vue.js; Vuex; Pinia; Nuxt; React; Angular;<br>
 Webpack; Vite; Vitest; Gulp; npm; Git;<br>
-PHP (basics); SQL (basics);<br>
+Node.js (basics); PHP (basics); SQL (basics);<br>
 
 <b>Projects:</b><br>
 <a href="https://ludoknowledgegame.netlify.app/">Ludo knowledge game</a> - Ludo game with knowledge quiz questions before every move (made in React)<br>
