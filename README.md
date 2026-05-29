@@ -1,6 +1,6 @@
 Hi, I'm Vladimir Obradović. 
 
-I'm a frontend developer with proficiency in both fundamental and modern JavaScript which gives me deep understanding of under the hood functioning of different JavaScript frameworks. I have been working mostly in Vue framework and its ecosystem, and to a lesser extent in Angular with my recent focus being on React to which I plan to switch completely in the future.
+I'm a front-end developer with proficiency in both fundamental and modern JavaScript which gives me deep understanding of under the hood functioning of different JavaScript frameworks. I have been working mostly in Vue framework and its ecosystem, and to a lesser extent in Angular with my recent focus being on React. My medium-term focus, besides mastering front-end skills, is on expanding my knowledge into full-stack development and server-side coding.
 
 <b>Tech Stack:</b> 🚀 <br>
 HTML; CSS; JavaScript; SCSS; TypeScript;<br>
